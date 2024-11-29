@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    background: #92e40d;
+    color: rgb(0, 32, 121);
+    padding: 20px 20px;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    padding: o;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+nav ul li{
+    margin: 0 10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+nav ul li a:hover{
+    background: #575757;
+}
